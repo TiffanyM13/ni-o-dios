@@ -11,9 +11,9 @@
     
     body{
     
-    background-image: url("fondo.jpg");
+    background-image: url("fondo1.jpg");
     
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     
     }
         
@@ -111,3 +111,57 @@ necesidad de cada una de las página.
         
         
         }
+
+
+        .img1{
+        
+         
+        
+            background-repeat: no-repeat;
+            
+            float:right;
+            
+            height: 320px;
+            
+            width: 380px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("img2.jpg");
+            
+            }   
+            .textos3{
+        
+                text-align: justify;
+                
+                color: rgb(247, 243, 167);
+                
+                font-size: 30px;
+                
+                
+                
+                } 
+                .textos4{
+        
+                    text-align: justify;
+                    
+                    color: rgb(184, 255, 218);
+                    
+                    font-size: 30px;
+                    
+                    
+                    
+                    }
+                    .textos5{
+        
+                        text-align: justify;
+                        
+                        color: rgb(210, 143, 198);
+                        
+                        font-size: 30px;
+                        
+                        
+                        
+                        }
